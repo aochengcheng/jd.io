@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "title": "超市百货",
+      "details": "一二线品牌厂商，经过严格质量认证。实现消费者与厂家的“零“距离接触"
+    },
+    [
+      {
+        "img_url": "/static/img/5bc06705N1cbb9ddd.1590d0b.jpg",
+        "goods_det": "亲别找啦 宁夏中宁枸杞238g/150g 红枸杞 泡茶泡酒 多规格可选 红枸杞150g/罐",
+        "price_old": "10.90",
+        "price_new": "8.90"
+      },
+      {
+        "img_url": "/static/img/14953b5113cbe20d.jpg",
+        "goods_det": "梅珍 柚子红肉蜜柚2个 梅州新鲜水果红心柚子水果 单果1150-1350g",
+        "price_old": "15.90",
+        "price_new": "10.90"
+      },
+      {
+        "img_url": "../../assets/img/pin/gongchang/5bc8609fNf80372af.jpg",
+        "goods_det": "马尔顿口袋吐司两斤 早餐手撕面包蒸蛋糕夹心面包炼奶三明治 孕妇休闲零食办公室糕点点心 奶酪夹心1斤装",
+        "price_old": "22.90",
+        "price_new": "15.90"
+      }
+    ]
+  ],
+  [
+    {
+      "title": "保暖服饰",
+      "details": "北京棉服，江浙羽绒服，畅销海内外，产地直接为您供应最物美价廉的衣款"
+    },
+    [
+      {
+        "img_url": "../../assets/img/pin/gongchang/5be4412fNf3bcf28b.jpg",
+        "goods_det": "2018冬装韩版加绒网纱打底衫女大码高领修身金银丝上衣加厚蕾丝衫 PG-6106 【加绒】高领深蓝色 S",
+        "price_old": "18.90",
+        "price_new": "11.90"
+      },
+      {
+        "img_url": "../../assets/img/pin/gongchang/034951778cc738a0.jpg",
+        "goods_det": "男士连帽卫衣2018秋季新款韩版潮流春秋长袖T恤宽松学生运动休闲上衣服外套体恤男褂子 LM35黑色 L",
+        "price_old": "18.90",
+        "price_new": "11.90"
+      },
+      {
+        "img_url": "../../assets/img/pin/gongchang/5be6849bNd9202b8f.jpg",
+        "goods_det": "南极人保暖内衣男士蓄热加绒防寒黄金暖绒保暖内衣厚款秋衣秋裤套装 男款深灰（上衣+裤子） XL",
+        "price_old": "18.90",
+        "price_new": "11.90"
+      }
+    ]
+  ],
+  [
+    {
+      "title": "数码家电",
+      "details": "厂商直供的家用电器和数码产品，均严格通过CCC产品质量认证"
+    },
+    [
+      {
+        "img_url": "../../assets/img/pin/gongchang/5be54144N200c0b03.jpg",
+        "goods_det": "莱弗凯（LFCare） 莱弗凯吹风机大功率家用电吹风筒冷热风发廊理发店专用 XD-168U 2000W 下单送集风嘴",
+        "price_old": "33.90",
+        "price_new": "19.90"
+      },
+      {
+        "img_url": "../../assets/img/pin/gongchang/ec4c6411e0c45a7c.jpg",
+        "goods_det": "少数派 数据线 苹果/安卓手机充电线Type-c接口数据线华为荣耀、小米、vivo、oppo手机适用 【红-1M】【苹果接口】",
+        "price_old": "10.90",
+        "price_new": "8.90"
+      },
+      {
+        "img_url": "../../assets/img/pin/gongchang/5be54fe5N81455f8a.jpg",
+        "goods_det": "芒果人（mango man） 芒果人 运动蓝牙耳机 无线双耳入耳式跑步 适用华为小米oppo苹果通用 优雅白--标配版",
+        "price_old": "15.90",
+        "price_new": "12.90"
+      }
+    ]
+  ],
+  [
+    {
+      "title": "居家日用",
+      "details": "品质家生活，惠价放心选，自主研发生产，厂家让利直销，物超所值"
+    },
+    [
+      {
+        "img_url": "../../assets/img/pin/gongchang/f2072d2c5526f3d6.jpg",
+        "goods_det": "富光拾喜保温杯男女士水杯学生情侣便携杯子大容量户外运动车载不锈钢茶杯 黑色 450ml",
+        "price_old": "15.90",
+        "price_new": "4.90"
+      },
+      {
+        "img_url": "../../assets/img/pin/gongchang/b491116f0749f77a.jpg",
+        "goods_det": "全棉纱布薄方巾纯棉童巾-颜色随机-单条25*25 双 II 特供4条装 颜色随机-单条25*25",
+        "price_old": "22.90",
+        "price_new": "11.90"
+      },
+      {
+        "img_url": "../../assets/img/pin/gongchang/cabb5b64d3e2e54a.jpg",
+        "goods_det": "【只亏一次 新车 新房内饰品去异味】汽车香水净味香膏车用除汽车香水 车载香水摆件固体香薰座摆件除异味 纳米净化款-620克【桂花",
+        "price_old": "33.90",
+        "price_new": "22.90"
+      }
+    ]
+  ]
+]
